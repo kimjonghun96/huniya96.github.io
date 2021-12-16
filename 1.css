@@ -1,0 +1,17 @@
+#A{border: 2px solid #000065; 
+
+display: inline-block; width:1000px; height:500px;}
+
+#menubar{background-color:#000065;}
+
+#menubar ul{margin :0; padding:0; width:567px;, height:100px;}
+
+#menubar ul li a{text-decoration: none; color : white;}
+
+#menubar ul li {display: inline-block; padding:0px 15px;}
+
+#menubar ul li:hover {color: white; background-color: #12465F;}
+
+body{padding-top:5px; color:#FF6782;
+  font-family:"Consolas";font-size:large;}
+  footer{color:black; font-size:20px;font-weight:bold;}
